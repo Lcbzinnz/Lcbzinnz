@@ -20,7 +20,6 @@ Tenho interesse em inteligência artificial e quero desenvolver aplicações fro
         <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python, JavaScript, HTML e CSS">
       </a>
       <br><br>
-      <img src="https://img.shields.io/badge/Inteligência_Artificial-0d1117?style=flat-square&logo=openai&logoColor=a855f7" alt="Inteligência Artificial">
       <h3>Contato</h3>
       <a href="https://github.com/Lcbzinnz">
         <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=a855f7" alt="GitHub">
